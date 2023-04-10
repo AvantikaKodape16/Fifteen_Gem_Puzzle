@@ -1,2 +1,19 @@
-# Fifteen_Gem_Puzzle
-The 15 puzzle is a sliding puzzle having 15 square tiles numbered 1–15 in a frame that is 4 tile positions high and 4 positions wide (for a total of 16 positions), leaving one unoccupied position.
+# 15puzzle
+15 Puzzle is a game to sort and solve the grid<br>
+https://sadanandpai.github.io/15puzzle/index.html
+
+## Technology
+HTML5, CSS, JavaScript, React
+
+#### Build tool
+Parcel
+
+### Instructions work on the source code
+1. Install parcel globally
+2. Clone the repo
+3. Navigate to source_code
+4. Run 'npm install'
+5. Run 'parcel ./index.html'
+
+#### To build for prod
+1. Run 'parcel build ./index.html'
