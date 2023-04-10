@@ -1,6 +1,6 @@
 # 15puzzle
 15 Puzzle is a game to sort and solve the grid<br>
-https://sadanandpai.github.io/15puzzle/index.html
+LIVE : https://fifteen-gem-puzzle.netlify.app
 
 ## Technology
 HTML5, CSS, JavaScript, React
